@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "abdo",
+      "email": "Elhaddadtech@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "japer93328@gameszox.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "abdo",
+      "email": "Elhaddadtech@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "abdo",
+      "email": "Elhaddadtech@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Adidas Sneakers",
+      "Price": 59.99,
+      "Description": "Comfortable Adidas sneakers",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 2,
+      "ProductName": "Nike Running Shoes",
+      "Price": 79.99,
+      "Description": "High-performance Nike ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 3,
+      "ProductName": "Slim Fit Denim",
+      "Price": 39.99,
+      "Description": "Classic slim-fit denim jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 4,
+      "ProductName": "Bootcut Jeans",
+      "Price": 49.99,
+      "Description": "Trendy bootcut jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "CategoryName": "Shoes",
+      "img": "./images/categories/electro.jpg"
+    },
+    {
+      "id": 2,
+      "CategoryName": "Jeans",
+      "img": "./images/categories/electro.jpg"
+    },
+    {
+      "id": 3,
+      "CategoryName": "Electronics ",
+      "img": "./images/categories/electro.jpg"
+    },
+    {
+      "id": 4,
+      "CategoryName": "Baby",
+      "img": "./images/categories/electro.jpg"
+    }
+  ],
+  "orders": []
+}
