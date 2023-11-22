@@ -9,14 +9,10 @@ import Products from "./Pages/Products";
 function App() {
   return (
     <div className="App w-100 h-100">
-     
+      <Nav/>
       <Routes>
-        <Route   path="/" exact  element={<Home/>}>
-          <Route path="/products" element={<Products/>} />
-          {/* <Route index element={<Home />} />
-          <Route path="contact" element={<Contact />} />
-          <Route path="*" element={<NoPage />} /> */}
-        </Route>
+        <Route   path="/" exact  element={<Home/>} />
+        <Route path="/products" element={<Products/>} />
       </Routes>
       
     </div>
