@@ -22,10 +22,11 @@ function LatestProducts() {
     producsList();
   }, []);
   return (
-    <div className="d-flex flex-column gap-3 flex-md-row">
-      {products?.map((product) => {
+    <div className="d-flex justify-content-center align-content-center gap-3 flex-wrap ">
+      {products?.map((product,index) => {
+       if ( index < 4){
         return (
-          <MDBCard className="" key={product.id}>
+          <MDBCard style={{ width:"14rem" }} key={product.id}>
             <MDBRipple
               rippleColor="light"
               rippleTag="div"
@@ -50,6 +51,7 @@ function LatestProducts() {
             </MDBCardBody>
           </MDBCard>
         );
+       }
       })}
     </div>
   );

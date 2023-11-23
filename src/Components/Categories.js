@@ -14,10 +14,10 @@ function Categories() {
     categorieslist();
   }, []);
   return (
-    <div className="d-flex flex-column gap-3 flex-md-row">
+    <div className="d-flex justify-content-center align-content-center flex-wrap gap-3 ">
       {categories?.map((categorie) => {
         return (
-          <div className="card d-flex" style={{ width:"18rem" }} key={categorie.id}>
+          <div className="card d-flex" style={{ width:"14rem" }} key={categorie.id}>
             <img src={categorie.img}  className="card-img-top img-fluid " alt="..." />
             <div className="card-body text-center">
               <p className="card-text"> {categorie.CategoryName} </p>

@@ -58,12 +58,109 @@
     },
     {
       "id": 4,
-      "ProductName": "Bootcut Jeans",
+      "ProductName": "Bootcut jeans Jeans",
       "Price": 49.99,
       "Description": "Trendy bootcut jeans",
       "img": "./images/categories/electro.jpg",
       "categorie_id": 1
+    },
+    {
+      "id": 5,
+      "ProductName": "Adidas Sneakers",
+      "Price": 59.99,
+      "Description": "Comfortable Adidas sneakers",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 6,
+      "ProductName": "Nike Running Shoes",
+      "Price": 79.99,
+      "Description": "High-performance Nike ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 7,
+      "ProductName": "Slim Fit Denim",
+      "Price": 39.99,
+      "Description": "Classic slim-fit denim jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 8,
+      "ProductName": "Bootcut Jeans",
+      "Price": 49.99,
+      "Description": "Trendy jeans bootcut jeans ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 9,
+      "ProductName": "Adidas Sneakers",
+      "Price": 59.99,
+      "Description": "Comfortable Adidas sneakers",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 10,
+      "ProductName": "Nike Running Shoes",
+      "Price": 79.99,
+      "Description": "High-performance Nike ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 11,
+      "ProductName": "Slim Fit Denim",
+      "Price": 39.99,
+      "Description": "Classic slim-fit denim jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 12,
+      "ProductName": "Bootcut jeans Jeans",
+      "Price": 49.99,
+      "Description": "Trendy bootcut jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 13,
+      "ProductName": "Adidas Sneakers",
+      "Price": 59.99,
+      "Description": "Comfortable Adidas sneakers",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 14,
+      "ProductName": "Nike Running Shoes",
+      "Price": 79.99,
+      "Description": "High-performance Nike ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 15,
+      "ProductName": "Slim Fit Denim",
+      "Price": 39.99,
+      "Description": "Classic slim-fit denim jeans",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
+    },
+    {
+      "id": 16,
+      "ProductName": "Bootcut Jeans",
+      "Price": 49.99,
+      "Description": "Trendy jeans bootcut jeans ",
+      "img": "./images/categories/electro.jpg",
+      "categorie_id": 1
     }
+    
   ],
   "categories": [
     {
